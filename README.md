@@ -1,4 +1,4 @@
 # Mulcore
 CoreXY 3D Printer
 
-![Mulcore](Images/MULCORE-24.jpg)
+![Mulcore](IMAGES/MULCORE-24.jpg)
